@@ -20,7 +20,21 @@ class Pantalla2 extends StatelessWidget {
               onPressed: () {
                 Navigator.pop(context);
               },
-            )
+            ),
+            Container(
+              width: double.infinity,
+              height: 300,
+              child: Card(
+                margin: EdgeInsets.all(32),
+                child: Padding(
+                  padding: EdgeInsets.all(16),
+                  child: Text(
+                    "Bienvenido a la Pagina 2",
+                    style: TextStyle(fontSize: 30, color: Color(0xffd27b34)),
+                  ),
+                ),
+              ),
+            ),
           ],
         ),
       ),
