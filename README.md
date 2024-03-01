@@ -32,3 +32,8 @@ samples, guidance on mobile development, and a full API reference.
 
 ![image](https://github.com/Rodriguezb128/p12-Entrepag-6i/assets/143763162/6adf6aa8-7245-4c8f-8031-4f90bbe8eb2c)
 
+![image](https://github.com/Rodriguezb128/p12-Entrepag-6i/assets/143763162/fcf06b60-ac37-4bbb-a635-7be74fb305b1)
+
+![image](https://github.com/Rodriguezb128/p12-Entrepag-6i/assets/143763162/3d46476c-ae05-40e0-8690-89c729989ed0)
+
+
